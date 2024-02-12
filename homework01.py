@@ -5,11 +5,6 @@ Created on Tue Dec 27 21:39:58 2022
 @author: user
 """
 
-for a in range(1,6):
-    for x in range(a):
-        print(x,end="")
-    print()
-    
 """
 第一個作業
 1
